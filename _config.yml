@@ -1,4 +1,4 @@
-# Build settings
+title: Miriam Gold
 markdown: kramdown
-theme: minimal
+theme: jekyll-theme-minimal
 logo: imgs/mimi_pfp.jpg
