@@ -1,3 +1,3 @@
-# About me
-
-Hello, I'm Miriam. I'm a lady.
+layout: page
+title: "About Me"
+permalink: https://miriamasagold.github.io/about
